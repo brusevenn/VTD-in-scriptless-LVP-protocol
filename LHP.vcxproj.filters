@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\lhp.cpp" />
+    <ClCompile Include="src\params.cpp" />
+    <ClCompile Include="src\puzzle.cpp" />
+    <ClCompile Include="src\util.cpp" />
+    <ClCompile Include="src\crs.cpp" />
+    <ClCompile Include="test\main.cpp" />
+    <ClCompile Include="src\vtd.cpp" />
+    <ClCompile Include="src\Shamir.cpp" />
+    <ClCompile Include="src\nizk.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\params.h" />
+    <ClInclude Include="include\puzzle.h" />
+    <ClInclude Include="include\util.h" />
+    <ClInclude Include="include\lhp.h" />
+    <ClInclude Include="include\nizk.h" />
+    <ClInclude Include="include\vtd.h" />
+    <ClInclude Include="include\Shamir.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LICENSE" />
+    <None Include="Makefile" />
+    <None Include="README.md" />
+    <None Include="test\Makefile" />
+  </ItemGroup>
+</Project>

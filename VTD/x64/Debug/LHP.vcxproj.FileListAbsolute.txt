@@ -1,0 +1,2 @@
+C:\Users\lzh\Documents\CPPprogram\liblhtlp-master\x64\Debug\LHP.exe
+C:\Users\lzh\Documents\CPPprogram\VTD\x64\Debug\VTD.exe

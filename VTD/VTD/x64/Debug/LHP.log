@@ -1,0 +1,12 @@
+﻿  lhp.cpp
+  nizk.cpp
+  params.cpp
+  puzzle.cpp
+  Shamir.cpp
+  util.cpp
+  crs.cpp
+  vtd.cpp
+  main.cpp
+C:\Users\lzh\Documents\CPPprogram\VTD\src\vtd.cpp(99,4): warning C4551: 缺少参数列表的函数调用
+  正在生成代码...
+  LHP.vcxproj -> C:\Users\lzh\Documents\CPPprogram\VTD\x64\Debug\VTD.exe
